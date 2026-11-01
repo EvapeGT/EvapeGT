@@ -58,6 +58,15 @@
 
 ### Projects
 
-- **[BuzzSave](https://buzzsave.vercel.app/)** — AI expense tracker.
-- **[S-Space Hub](https://rhusselcombo.is-a.dev/#sspace)** — Dormitel management.
-- **[GroceReel](https://rhusselcombo.is-a.dev/#grocereel)** — Recipes and groceries.
+- **[BuzzSave](https://buzzsave.vercel.app/)**<br>Finance APIs built with **Java 21/Spring Boot** and MySQL, with **Python** expense classification on Azure VMs. AWS EC2 deployment with RDS, S3 and a multi-stage Docker build.
+
+- **[S-Space Hub](https://rhusselcombo.is-a.dev/#sspace)**<br>A **Java 17/Spring Boot** backend for a dormitel client, with JWT authentication, MySQL and Gemini-assisted maintenance tickets. Deployed on AWS EC2 with RDS and S3.
+
+- **[GroceReel](https://rhusselcombo.is-a.dev/#grocereel)**<br>A **TypeScript/React Native** frontend prototype for AI-assisted recipes, with portion scaling, ingredient swaps, pantry-aware shopping lists and AsyncStorage persistence.
+
+---
+
+<p align="center">
+  <b>Learn more about me and explore more of my work.</b><br>
+  <a href="https://rhusselcombo.is-a.dev/">Visit my portfolio</a>
+</p>
