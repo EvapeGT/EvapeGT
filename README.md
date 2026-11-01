@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg?rev=9cf797e">
-  <img src="assets/header-light.svg?rev=9cf797e" width="100%" alt="Rhussel Combo — Java and Spring Boot developer focused on backend systems and cloud delivery">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EvapeGT/EvapeGT/9cf797e/assets/header-dark.svg">
+  <img src="https://raw.githubusercontent.com/EvapeGT/EvapeGT/9cf797e/assets/header-light.svg" width="100%" alt="Rhussel Combo — Java and Spring Boot developer focused on backend systems and cloud delivery">
 </picture>
 
 <p>
