@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">Rhussel Combo — Java and Spring Boot</title>
+  <desc id="desc">Backend systems and cloud delivery. An illustrative request path from a Spring Boot service in Docker on AWS EC2 to MySQL on Amazon RDS.</desc>
+  <rect width="1200" height="400" rx="22" fill="#142744"/>
+  <path d="M0 365H1200" stroke="#304765"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="54" y="101" fill="#f5f8ff" font-size="57" font-weight="750" letter-spacing="-2">Rhussel Combo</text>
+    <text x="56" y="163" fill="#94bbff" font-size="33" font-weight="650">Java / Spring Boot</text>
+    <text x="56" y="208" fill="#c2d2e9" font-size="23">Backend systems. Cloud delivery.</text>
+    <rect x="56" y="256" width="284" height="43" rx="21.5" fill="#dceaff"/>
+    <circle cx="79" cy="277" r="5" fill="#4d7c2d"/>
+    <text x="95" y="284" fill="#142744" font-size="17" font-weight="600">AWS Certified Cloud Practitioner</text>
+    <text x="56" y="344" fill="#b4c8e5" font-size="16">Metro Manila, Philippines</text>
+    <text x="1144" y="344" text-anchor="end" fill="#b4c8e5" font-size="16">rhusselcombo.is-a.dev</text>
+    <rect x="656" y="48" width="260" height="250" rx="18" fill="#203959" stroke="#48658c" stroke-width="1.5"/>
+    <text x="678" y="81" fill="#c2d2e9" font-size="16" font-weight="600">AWS EC2</text>
+    <rect x="677" y="101" width="218" height="175" rx="12" fill="#162c49" stroke="#536f95" stroke-width="1.5"/>
+    <text x="697" y="132" fill="#b7ceee" font-size="15" font-weight="600">Docker</text>
+    <rect x="697" y="150" width="177" height="103" rx="9" fill="#294834"/>
+    <path d="M719 178l-9 10 9 10m132-20 9 10-9 10" fill="none" stroke="#b2d78d" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="786" y="196" text-anchor="middle" fill="#d5efbd" font-size="21" font-weight="700">Spring Boot</text>
+    <text x="786" y="231" text-anchor="middle" fill="#bdd6ab" font-size="15">Java REST API</text>
+    <path d="M895 201H965m-9-6 9 6-9 6" fill="none" stroke="#94b3dc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="972" y="152" width="174" height="99" rx="12" fill="#4c3b25" stroke="#9c7c4b" stroke-width="1.5"/>
+    <text x="1059" y="191" text-anchor="middle" fill="#ffe0a6" font-size="20" font-weight="700">Amazon RDS</text>
+    <text x="1059" y="223" text-anchor="middle" fill="#e4c99d" font-size="16">MySQL</text>
+  </g>
+</svg>
