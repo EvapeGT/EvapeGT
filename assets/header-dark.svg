@@ -7,7 +7,7 @@
     <text x="54" y="101" fill="#f5f8ff" font-size="57" font-weight="750" letter-spacing="-2">Rhussel Combo</text>
     <text x="56" y="163" fill="#94bbff" font-size="33" font-weight="650">Java / Spring Boot</text>
     <text x="56" y="208" fill="#c2d2e9" font-size="23">Backend systems. Cloud delivery.</text>
-    <rect x="56" y="256" width="284" height="43" rx="21.5" fill="#dceaff"/>
+    <rect x="56" y="256" width="320" height="43" rx="21.5" fill="#dceaff"/>
     <circle cx="79" cy="277" r="5" fill="#4d7c2d"/>
     <text x="95" y="284" fill="#142744" font-size="17" font-weight="600">AWS Certified Cloud Practitioner</text>
     <text x="56" y="344" fill="#b4c8e5" font-size="16">Metro Manila, Philippines</text>
